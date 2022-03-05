@@ -1,8 +1,8 @@
 <?php
 $host = "localhost"; // host
-$dbname = "*****"; // database name
-$user = "*****"; // username
-$pass = "*****"; // password
+$dbname = "hlhst_31218297_ss"; // database name
+$user = "hlhst_31218297"; // username
+$pass = "alla1993"; // password
 
 try {
   $CNT = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
